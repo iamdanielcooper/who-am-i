@@ -1,0 +1,69 @@
+{
+    "firstName": "Daniel",
+    "lastName": "Cooper",
+    "contact": {
+        "website": "http://iamdanielcooper.com",
+        "twitter": "@tbc",
+        "instagram": "@tbc",
+        "linkedIn": "http://linkedin.com/danielcooper"
+    },
+    "workHistory": [
+        {
+            "company": "Kingfisher plc",
+            "title": "Automation test engineer",
+            "description": "",
+            "start": "2021-09-21",
+            "end": null,
+            "responsibilities": ["one", "two"],
+            "successes": ["one", "two"]
+        }
+    ],
+    "coding": {
+        "username": "iandanielcooper",
+        "commits": [
+            {
+                "year": "2022",
+                "commits": 1234
+            }
+        ],
+        "totalRepos": 1234,
+        "topReposByCommits": [
+            {
+                "index": 0,
+                "name": "",
+                "commits": 10,
+                "url": "",
+                "recentCommits": [
+                    { "date": "2022-05-21", "message": "" },
+                    { "date": "2022-05-21", "message": "" },
+                    { "date": "2022-05-21", "message": "" },
+                    { "date": "2022-05-21", "message": "" },
+                    { "date": "2022-05-21", "message": "" }
+                ]
+            }
+        ]
+    },
+    "hobbies": {
+        "music": {
+            "currentlyListeningTo": {
+                "artist": "",
+                "album": "",
+                "progress": "<========-->"
+            },
+            "recentlyPlayedAlbums": [
+                { "artist": "", "album": "", "year": "2022" },
+                { "artist": "", "album": "", "year": "2022" },
+                { "artist": "", "album": "", "year": "2022" },
+                { "artist": "", "album": "", "year": "2022" },
+                { "artist": "", "album": "", "year": "2022" }
+            ],
+            "recentlyAttendedGigs": [
+                { "artist": "", "tour": "", "date": "", "venue": "" },
+                { "artist": "", "tour": "", "date": "", "venue": "" },
+                { "artist": "", "tour": "", "date": "", "venue": "" },
+                { "artist": "", "tour": "", "date": "", "venue": "" },
+                { "artist": "", "tour": "", "date": "", "venue": "" }
+            ]
+        }
+    }
+}
