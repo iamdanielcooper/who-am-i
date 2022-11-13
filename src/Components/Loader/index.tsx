@@ -10,7 +10,7 @@ function Loader() {
             setLoading(prevState =>
                 prevState === 'Loading...' ? 'Loading' : prevState + '.'
             );
-        }, 200);
+        }, 400);
 
         return () => {
             clearInterval(interval.current);
